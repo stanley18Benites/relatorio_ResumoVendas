@@ -1,0 +1,32 @@
+unit unit_teste;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.Grids, Vcl.DBGrids, unit_resumo_de_vendas,
+  DB, dbcLIENT;
+
+type
+  Tfrm_teste = class(TForm)
+    DataSource1: TDataSource;
+    db_grid: TDBGrid;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frm_teste: Tfrm_teste;
+
+implementation
+
+{$R *.dfm}
+procedure teste();
+var cds : TClientDataSet ;
+begin
+  cds := TClientDataSet.Create(nil);
+  frm_teste.db_grid.DataSource.DataSet := Tfrm_resumo_de_vendas.impressao(StrToDate('2021-01-01'),StrToDate('2021-02-01'));
+end;
+end.

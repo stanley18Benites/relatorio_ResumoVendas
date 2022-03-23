@@ -1,0 +1,14 @@
+program resumo_de_vendas;
+
+uses
+  Vcl.Forms,
+  unit_inserir_dados in '..\unit_inserir_dados.pas' {Form1};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TForm1, Form1);
+  Application.Run;
+end.

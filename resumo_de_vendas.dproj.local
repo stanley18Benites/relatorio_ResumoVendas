@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/11/26 11:43:22.000.713,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 10:51:25.000.299,=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 10:59:47.000.481,C:\PROJETO\unit_inserir_dados.pas=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 10:59:47.000.481,C:\PROJETO\unit_inserir_dados.dfm=C:\Users\User\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/02/25 11:00:13.000.071,C:\Users\User\Documents\Embarcadero\Studio\Projects\resumo_de_vendas.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/02/25 11:01:35.000.477,C:\PROJETO\relatorio_resumo_de_vendas\resumo_de_vendas.dproj=C:\Users\User\Documents\Embarcadero\Studio\Projects\resumo_de_vendas.dproj</Transaction>
+    <Transaction>2022/02/25 11:04:19.000.121,C:\PROJETO\unit_inserir_dados.pas=</Transaction>
+    <Transaction>2022/02/25 11:04:29.000.877,=C:\PROJETO\relatorio_resumo_de_vendas\unit_inserir_dados.pas</Transaction>
+    <Transaction>2022/02/25 11:11:07.000.338,=C:\PROJETO\relatorio_resumo_de_vendas\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 11:11:42.000.854,C:\PROJETO\relatorio_resumo_de_vendas\Unit1.pas=C:\PROJETO\relatorio_resumo_de_vendas\unit_resumo_de_vendas.pas</Transaction>
+    <Transaction>2022/02/25 11:11:42.000.854,C:\PROJETO\relatorio_resumo_de_vendas\Unit1.dfm=C:\PROJETO\relatorio_resumo_de_vendas\unit_resumo_de_vendas.dfm</Transaction>
+    <Transaction>2022/02/25 13:00:26.000.836,=C:\PROJETO\relatorio_resumo_de_vendas\Unit1.pas</Transaction>
+    <Transaction>2022/02/25 13:12:26.000.489,C:\PROJETO\relatorio_resumo_de_vendas\Unit1.dfm=C:\PROJETO\relatorio_resumo_de_vendas\unit_dataModule.dfm</Transaction>
+    <Transaction>2022/02/25 13:12:26.000.489,C:\PROJETO\relatorio_resumo_de_vendas\Unit1.pas=C:\PROJETO\relatorio_resumo_de_vendas\unit_dataModule.pas</Transaction>
+    <Transaction>2022/03/07 16:01:25.000.647,=C:\PROJETO\relatorio_resumo_de_vendas\Unit1.pas</Transaction>
+    <Transaction>2022/03/07 16:04:47.000.832,C:\PROJETO\relatorio_resumo_de_vendas\Unit1.pas=C:\PROJETO\relatorio_resumo_de_vendas\unit_teste.pas</Transaction>
+    <Transaction>2022/03/07 16:04:47.000.832,C:\PROJETO\relatorio_resumo_de_vendas\Unit1.dfm=C:\PROJETO\relatorio_resumo_de_vendas\unit_teste.dfm</Transaction>
+    <Transaction>2022/03/09 11:18:07.000.443,C:\PROJETO\relatorio_resumo_de_vendas\unit_teste.pas=</Transaction>
+  </Transactions>
+</BorlandProject>
